@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Abarth",
+    "models": [
+      { "name": "124 Spider", "series": null },
+      { "name": "Other", "series": null }
+    ]
+  },
+  {
+    "name": "Bentley",
+    "models": [
+      { "name": "Arnage", "series": null },
+      { "name": "Other", "series": null }
+    ]
+  },
+  {
+    "name": "Chevrolet",
+    "models": [
+      { "name": "2500", "series": null },
+      { "name": "Other", "series": null }
+    ]
+  },
+  {
+    "name": "Dodge",
+    "models": [
+      { "name": "Avenger", "series": null },
+      { "name": "Other", "series": null }
+    ]
+  },
+  {
+    "name": "Ferrari",
+    "models": [
+      { "name": "208", "series": null },
+      { "name": "Other", "series": null }
+    ]
+  },
+  {
+    "name": "Jeep",
+    "models": [
+      { "name": "Cherokee", "series": null },
+      { "name": "Other", "series": null }
+    ]
+  },
+  {
+    "name": "Lamborghini",
+    "models": [
+      { "name": "Aventador", "series": null },
+      { "name": "Other", "series": null }
+    ]
+  },
+  {
+    "name": "Toyota",
+    "models": [
+      { "name": "4-Runner", "series": null },
+      { "name": "Other", "series": null }
+    ]
+  },
+  {
+    "name": "Volkswagen",
+    "models": [
+      { "name": "181", "series": null },
+      { "name": "Other", "series": null }
+    ]
+  }
+]
