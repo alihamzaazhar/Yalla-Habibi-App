@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner": "alihamza124",
     "name": "Yallaa Dubai",
     "slug": "yallaa-dubai-app",
     "version": "1.0.0",
@@ -22,7 +23,11 @@
         "backgroundColor": "#ffffff"
       },
       "versionCode": 6,
-      "permissions":[],
+      "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ],
       "package": "com.keypointFZC.yallaadubaiapp",
       "config": {
         "googleMaps": {
@@ -55,7 +60,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "70a74243-94dd-4231-bc51-bf3daabb4bb8"
+        "projectId": "8dd9343d-4231-41cb-a672-a99d85315d65"
       }
     }
   }

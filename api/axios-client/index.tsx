@@ -3,7 +3,7 @@ import axios, {
   AxiosError,
   AxiosInstance,
 } from "axios";
-import * as rax from "retry-axios";
+import * as rax from "retry-axios/build/src/index";
 import { v4 as uuidv4 } from "uuid";
 
 import JwtTokenManager from "./jwt-token-manager";

@@ -6,7 +6,7 @@
     "development": {
       "distribution": "internal",
       "env": {
-        "EXPO_PUBLIC_BACKEND_BASE_URL": "https://www.yallabe.com",
+        "EXPO_PUBLIC_BACKEND_BASE_URL": "https://yallah-dubai-backend-0e910a646cf0.herokuapp.com",
         "EXPO_PUBLIC_STRIPE_PUBLISHABLE_KEY": "pk_live_51QcqGDIj8zpORi7zAtojmesRaFtVwt2GQ3yUSNSOwOdAOQMRLh1kjM2c9EMk59QZpT4f5ubG4zNMv5cwuqmHO5Er00EQcPEx81",
         "EXPO_PUBLIC_HERE_API_KEY": "STia8C3oYW2NATqJFxwu9satV7033VIo0BeGQsNW4hI"
       },
@@ -15,15 +15,19 @@
       }
     },
     "preview": {
+     "distribution": "internal",  
       "env": {
-        "EXPO_PUBLIC_BACKEND_BASE_URL": "https://www.yallabe.com",
+        "EXPO_PUBLIC_BACKEND_BASE_URL": "https://yallah-dubai-backend-0e910a646cf0.herokuapp.com",
         "EXPO_PUBLIC_STRIPE_PUBLISHABLE_KEY": "pk_test_51QcqGDIj8zpORi7zD7QcbUL3lCUTjNQ4LqujmlxyZhlRgWxmloTL2PmFIYvTpp5TyH2ZIXxvgep1NoLpxl2mPRBl00cd99OH8y",
         "EXPO_PUBLIC_HERE_API_KEY": "STia8C3oYW2NATqJFxwu9satV7033VIo0BeGQsNW4hI"
+      },
+      "android": {
+        "buildType": "apk"
       }
     },
     "production": {
       "env": {
-        "EXPO_PUBLIC_BACKEND_BASE_URL": "https://www.yallabe.com",
+        "EXPO_PUBLIC_BACKEND_BASE_URL": "https://yallah-dubai-backend-0e910a646cf0.herokuapp.com",
         "EXPO_PUBLIC_STRIPE_PUBLISHABLE_KEY": "pk_live_51QcqGDIj8zpORi7zAtojmesRaFtVwt2GQ3yUSNSOwOdAOQMRLh1kjM2c9EMk59QZpT4f5ubG4zNMv5cwuqmHO5Er00EQcPEx81",
         "EXPO_PUBLIC_HERE_API_KEY": "STia8C3oYW2NATqJFxwu9satV7033VIo0BeGQsNW4hI"
       }
